@@ -1,5 +1,5 @@
-/*Smart Pointers (std::unique_ptr, std::shared_ptr)
-Smart pointers in C++ manage the lifetime of objects. They help prevent memory leaks and ensure proper resource management.
+//Smart Pointers (std::unique_ptr, std::shared_ptr)
+//Smart pointers in C++ manage the lifetime of objects. They help prevent memory leaks and ensure proper resource management.
 
 #include <iostream>
 #include <memory>
@@ -42,8 +42,8 @@ int main() {
 
 
 
-/*Lambda Expressions and Functional Programming
-Lambda expressions provide a concise way to define anonymous functions in C++.
+//Lambda Expressions and Functional Programming
+//Lambda expressions provide a concise way to define anonymous functions in C++.
 
 
 #include <iostream>
@@ -85,8 +85,8 @@ int main() {
 }
 
 
-/*Introduction to C++11, C++14, and C++17 Features
-Example 1: auto and Range-based For Loop (C++11)
+//Introduction to C++11, C++14, and C++17 Features
+//Example 1: auto and Range-based For Loop (C++11)/*
 #include <iostream>
 #include <vector>
 
@@ -117,4 +117,3 @@ int main() {
     }
     return 0;
 }
-*/

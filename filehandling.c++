@@ -20,7 +20,7 @@ Write data using <<.
 
 Error Handling with File Operations
 Use the is_open() method to check if the file was successfully opened.
-Use error flags like eof(), fail(), or bad() to handle specific issues.
+Use error flags like eof(), fail(), or bad() to handle specific issues.*/
 
 
 #include <iostream>
@@ -55,7 +55,7 @@ int main() {
 }
 
 
-reading and writing _GLIBCXX_BASIC_FILE_STDIO_H#include <iostream>
+//reading and writing _GLIBCXX_BASIC_FILE_STDIO_H#include <iostream>
 #include <fstream>
 using namespace std;
 
@@ -121,7 +121,7 @@ int main() {
 
 File Streams:
 
-Use ifstream or ofstream for basic file I/O.
+/*Use ifstream or ofstream for basic file I/O.
 Use fstream for combined read-write operations.
 Reading and Writing:
 
@@ -129,6 +129,6 @@ Writing is done with <<, and reading with >> or getline().
 Error Handling:
 
 is_open() ensures the file can be accessed.
-Flags like eof(), fail(), or bad() provide detailed error information*/
-
+Flags like eof(), fail(), or bad() provide detailed error information
+*/
 

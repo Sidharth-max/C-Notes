@@ -23,8 +23,7 @@ Every C++ program has a main function.
 Includes libraries using #include.
 Statements end with a semicolon ;.
 
-*/
-//Hello World program
+//Hello World program*/
 #include <iostream>
 using namespace std;
 
