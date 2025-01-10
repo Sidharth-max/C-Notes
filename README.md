@@ -8,7 +8,7 @@ Complete C++ programming guide from basics to advanced. Perfect for beginners le
 
 ## Quick Links 🔗
 - [Getting Started](#basic-concepts)
-- [Download PDF Notes](./Notes.md)
+- [Download Notes](./Notes.md)
 
 ## Learning Path 🎯
 
